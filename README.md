@@ -1,4 +1,4 @@
-Hi there, I'm Deepak Saharawat 👋
+Hi there 👋
 An AI enthusiast, GPT explorer, AI education advocate and tool creator.
 
 🔭 I’m currently working on AI-based solutions and tools
